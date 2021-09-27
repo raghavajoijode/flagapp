@@ -1,6 +1,6 @@
 # Flag App AEM project
 
-This is an AEM-based applications. It is designed to configure flags from authoring console and from code using this service we can divert the flows or launch darkly.
+This is an AEM-based applications. It is designed to configure flags from authoring console and from code using this service we can divert the flows or launch features without code changes.
 
 ## Modules
 
