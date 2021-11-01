@@ -8,7 +8,7 @@
     <parent>
         <groupId>com.acn.rj.aem</groupId>
         <artifactId>flag-app</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
+        <version>0.0.1-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 

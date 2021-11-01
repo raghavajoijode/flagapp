@@ -13,9 +13,9 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
-package com.acn.rj.aem.core.models.impl;
+package com.acn.rj.aem.flagapp.models.impl;
 
-import com.acn.rj.aem.core.models.HelloWorldModel;
+import com.acn.rj.aem.flagapp.models.HelloWorldModel;
 import com.adobe.cq.export.json.ComponentExporter;
 import com.adobe.cq.export.json.ExporterConstants;
 import com.day.cq.wcm.api.Page;

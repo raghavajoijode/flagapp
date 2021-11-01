@@ -1,4 +1,4 @@
-package com.acn.rj.aem.core.models;
+package com.acn.rj.aem.flagapp.models;
 
 public interface HelloWorldModel {
 
